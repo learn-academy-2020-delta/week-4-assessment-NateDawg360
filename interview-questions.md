@@ -7,41 +7,41 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is an instance variable in Ruby? How is it different from other variables?
 
-  Your answer:
+  Your answer: an instance variable only belongs to one certain class.
 
-  Researched answer:
+  Researched answer: class variables can be shared between a class and its subclasses.
 
 
 
 2. What is a block in Ruby?
 
-  Your answer:
+  Your answer: A ruby block is a way of grouping statements just like the curly braces were for javascript.
 
-  Researched answer:
+  Researched answer: A ruby block could appear only in the source adjacent to a method call.
 
 
 
 3. Ruby has an implicit return. What does that mean?
 
-  Your answer:
+  Your answer: Ruby implies that there is already a return of the value from the expression that is immediately before.
 
-  Researched answer:
+  Researched answer: You can return multiple values by separating them with commas.
 
 
 
 4. What is object-oriented programming? How is it different than functional programming?
 
-  Your answer:
+  Your answer: Object-oriented programming allows you to store data into objects, while functional programming you cannot.
 
-  Researched answer:
+  Researched answer: Data in functional programming can only be transformed by creating functions.
 
 
 
 5. What is the difference between a class and an object?
 
-  Your answer:
+  Your answer: A Class is a template that holds objects, while an object is a member of that class.
 
-  Researched answer:
+  Researched answer: An object is a physical entity while a class is a logical entity.
 
 
 
@@ -49,7 +49,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: 'attr_accessor' is a Ruby method that automatically sets up setters and getters.
 
 
 
